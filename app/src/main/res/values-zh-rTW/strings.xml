@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Currency</string>
+    <string name="rate">匯率</string>
+    <string name="usd2ntd">美元兌台幣</string>
+    <string name="jpy2ntd">日圓兌台幣</string>
+    <string name="ok">確認</string>
+    <string name="problem">出錯</string>
+    <string name="input_ntd">"請輸入台幣金額 : "</string>
+    <string name="ntd">台幣</string>
+    <string name="calculate">計算</string>
+    <string name="show_rate">查看匯率</string>
+    <string name="usd">美元</string>
+    <string name="jpy">日圓</string>
+    <string name="reset">重新輸入</string>
+</resources>

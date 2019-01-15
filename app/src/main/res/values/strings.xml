@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">Currency</string>
+    <string name="rate">Rate</string>
+    <string name="usd2ntd">USD to NTD :</string>
+    <string name="jpy2ntd">JPY to NTD :</string>
+    <string name="ok">OK</string>
+    <string name="problem">Problem</string>
+    <string name="input_ntd">Please enter your NTD amount</string>
+    <string name="ntd">NTD</string>
+    <string name="calculate">Calculate</string>
+    <string name="show_rate">rate</string>
+    <string name="usd">USD</string>
+    <string name="jpy">JPY</string>
+    <string name="reset">Reset</string>
 </resources>
